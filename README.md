@@ -107,7 +107,7 @@ A full-stack pizza ordering project demonstrating frontend development, backend 
 
 A PDF-focused project included in my GitHub portfolio, demonstrating practical work with document/PDF processing.
 
-👉 **[View Repository](https://github.com/Kadambari0305/insigify-pdf)**
+👉 **[View Repository](https://github.com/Kadambari0305/insigtify-pdf)**
 
 ---
 
