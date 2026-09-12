@@ -72,7 +72,7 @@ A full-stack anonymous barter platform designed for secure item exchange among s
 - 📱 Responsive React frontend
 - ⚙️ Node.js + Express backend
 
-👉 **[View Project](https://github.com/SiddhiKhandarkar/Anonymous_Barter_System)**
+👉 **[View Project](https://github.com/Kadambari0305/Anonymous_Barter_System)**
 
 ---
 
@@ -90,7 +90,7 @@ A digital safety learning platform focused on awareness of common online financi
 - 🗄️ Secure MongoDB data storage
 - 🎨 Responsive and interactive UI
 
-👉 **[View Project]((https://github.com/Sukanya0704/VivekRaksha)**
+👉 **[View Project]((https://github.com/Kadambari0305/VivekRaksha)**
 
 ---
 
