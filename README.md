@@ -90,7 +90,7 @@ A digital safety learning platform focused on awareness of common online financi
 - 🗄️ Secure MongoDB data storage
 - 🎨 Responsive and interactive UI
 
-👉 **[View Project]((https://github.com/Kadambari0305/VivekRaksha)**
+👉 **[View Project]((https://github.com/Kadambari0305/VivekRaksha))**
 
 ---
 
